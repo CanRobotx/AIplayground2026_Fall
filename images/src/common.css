@@ -1,0 +1,10 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Noto Sans CJK KR',sans-serif;color:#23405a;background:#f7f2e8;overflow:hidden;word-break:keep-all}
+.r{background:#F25022}.g{background:#7FBA00}.b{background:#00A4EF}.y{background:#FFB900}
+.dot{display:inline-block;border-radius:50%}
+.kicker{font-weight:700;letter-spacing:.14em;color:#c8501e}
+.title{font-weight:900;line-height:.95;letter-spacing:-.02em;color:#1d3850}
+.pill{display:inline-block;background:#1d3850;color:#fff;font-weight:700;border-radius:999px}
+.panel{background:#1d3850;color:#fff}
+.ind{display:flex;align-items:center;font-weight:700}
+.ind small{font-weight:400;color:#a9bccd;margin-left:auto}
